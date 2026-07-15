@@ -1,0 +1,7 @@
+// Last updated: 7/15/2026, 5:35:00 PM
+1class Solution {
+2public:
+3    int gcdOfOddEvenSums(int n) {
+4        return n;
+5    }
+6};
